@@ -1,0 +1,51 @@
+{
+  "telemetry.telemetryLevel": "off",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "settingsSync.ignoredExtensions": [],
+  "editor.linkedEditing": true,
+  "editor.codeActionsOnSave": {},
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  // "terminal.integrated.fontFamily": "'Monaspace Argon', monospace",
+  "editor.lineHeight": 1.6,
+  "editor.fontFamily": "'JetBrainsMono Nerd Font', 'monospace', monospace",
+  // "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  // "editor.fontFamily": "CaskaydiaCoveNerdFont",
+  // "editor.fontFamily": "'Monaspace Argon', monospace",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Dracula Theme",
+
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.fontSize": 13,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "astro",
+    "typescript",
+    "typescriptreact"
+  ],
+  "prettier.documentSelectors": ["**/*.astro"],
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "glassit.alpha": 245,
+  "window.zoomLevel": -1,
+  "workbench.editor.enablePreview": false,
+  // "prettier.printWidth": 200,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.iconTheme": "vscode-icons",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.wordWrap": "on",
+  "workbench.sideBar.location": "right",
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
